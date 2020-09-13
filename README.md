@@ -31,4 +31,4 @@ If these Coupon Codes do not work, then feel free to [![](https://img.shields.io
 ![](https://github.com/quiz-experts/HashiCorp-Certified-Terraform-Associate/raw/master/Reviews/Screenshot%202020-09-13%20at%2010.13.54%20PM.jpg)
 ![](https://github.com/quiz-experts/HashiCorp-Certified-Terraform-Associate/raw/master/Reviews/Screenshot%202020-09-13%20at%2010.39.59%20PM.jpg)
 ![](https://github.com/quiz-experts/HashiCorp-Certified-Terraform-Associate/raw/master/Reviews/Screenshot%202020-09-13%20at%2010.38.25%20PM.jpg)
-
+![](https://github.com/quiz-experts/HashiCorp-Certified-Terraform-Associate/raw/master/Reviews/hashtags.jpg)
