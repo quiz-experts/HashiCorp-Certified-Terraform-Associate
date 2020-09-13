@@ -1,6 +1,6 @@
 # Study Material for HashiCorp Certified: Terraform Associate
 
-GetHub repo to share Udemy Coupon Code and Study Material
+GitHub repo to share Udemy Coupon Code and Study Material.
 
 Best Official Free Guide [Click Here](https://learn.hashicorp.com/tutorials/terraform/associate-study)
 
