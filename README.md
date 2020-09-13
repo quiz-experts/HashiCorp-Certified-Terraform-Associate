@@ -7,11 +7,11 @@ Best Official Free Guide [Click Here](https://learn.hashicorp.com/tutorials/terr
 Practice Before Exam [Click Here](https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020/)
 
 
-<br></br>
+
 
 <img src="https://github.com/quiz-experts/HashiCorp-Certified-Terraform-Associate/raw/master/Reviews/Screenshot%202020-09-14%20at%2012.02.27%20AM.jpg" height="70%" width="70%">
 
-
+<br></br>
 [![](https://img.shields.io/badge/Profile-Udemy-red)](https://www.udemy.com/user/quiz-experts/) [![](https://img.shields.io/badge/Follow%20us-Quiz%20Experts-blue)](https://www.linkedin.com/company/quizexperts)  [![](https://img.shields.io/badge/Group-Linkedin-green)](https://www.linkedin.com/groups/13889100/)  [![](https://img.shields.io/badge/Group-Telegram-blue)](https://t.me/Terraform_Associate_Certified)
 
 <br></br>
