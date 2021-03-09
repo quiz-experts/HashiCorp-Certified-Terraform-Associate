@@ -19,7 +19,8 @@ Practice Before Exam [Click Here](https://www.udemy.com/course/hashicorp-certifi
 
 |SN|Course Link|Coupon Code|Price|Valid Until|
 | :------------ |:---------------:| :-----:| :------------ |:---------------:|
-|1|[Terraform Associate Practice Exam](https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020/)|OFF_62|62% OFF|April 08, 2021 01:00 AM PST|
+|1|[Terraform Associate Practice Exam](https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020/)|OFF_75|75% OFF|March 13, 2021 10:55 PM PST|
+|2|[Terraform Associate Practice Exam](https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020/)|OFF_62|62% OFF|April 08, 2021 01:00 AM PST|
 
 
 If these Coupon Codes do not work, then feel free to [![](https://img.shields.io/badge/message%20us-Linkedin-blue)](https://www.linkedin.com/in/ellinor-k%C3%A4mpe-55156a1b0/)
